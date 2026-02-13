@@ -824,6 +824,14 @@
       "extensions": ["idr", "lidr"],
       "nested": true
     },
+    "Ignis": {
+      "name": "Ingis",
+      "extensions": ["ign"],
+      "line_comment": ["//"],
+      "multi_line_comments": [["/*", "*/"]],
+      "nested": true,
+      "important_syntax": ["///", "//!"]
+    },
     "Ini": {
       "name": "INI",
       "line_comment": [";", "#"],
